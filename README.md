@@ -48,7 +48,6 @@ Each lab focuses on applying design principles and patterns in increasingly comp
    - **Highlight**: *Lab 4 – Custom Paint Application*  
      This lab was essentially building my own "Paint"-like software, combining multiple design patterns into a working GUI program. It represents the most complex and comprehensive assignment in the course.  
 
-> Each lab has its own dedicated subdirectory with source code and a detailed README.  
 
 ---
 
