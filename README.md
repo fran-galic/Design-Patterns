@@ -42,9 +42,22 @@ Each lab focuses on applying design principles and patterns in increasingly comp
 1. **Low-level polymorphism in C** – function pointers, vtables, and runtime behavior.  
 2. **Object-oriented design in C++** – classes, templates, operator overloading.  
 3. **Dynamic typing in Python** – flexible abstractions and duck typing.  
+   - **Highlight**: *Lab 3 – Task 2.2*  
+     Here I built a well-organized system where everything runs smoothly inside my custom notepad application. This task required significant integration of concepts and stands out as one of the most challenging and rewarding parts of the course.  
 4. **Vector drawing program** – a full application integrating multiple design patterns (Composite, State, Observer, Prototype, Factory, Bridge, etc.).  
+   - **Highlight**: *Lab 4 – Custom Paint Application*  
+     This lab was essentially building my own "Paint"-like software, combining multiple design patterns into a working GUI program. It represents the most complex and comprehensive assignment in the course.  
 
-> Each lab will have its own dedicated subdirectory with source code and a detailed README.  
+> Each lab has its own dedicated subdirectory with source code and a detailed README.  
+
+---
+
+## Official lab instructions
+
+- [Laboratory 1](https://www.zemris.fer.hr/~ssegvic/ooup/ooup1lab.shtml)  
+- [Laboratory 2](https://www.zemris.fer.hr/~ssegvic/ooup/ooup2lab.shtml)  
+- [Laboratory 3](http://www.zemris.fer.hr/~ssegvic/ooup/ooup3lab.shtml)  
+- [Laboratory 4](http://www.zemris.fer.hr/~ssegvic/ooup/ooup4lab.shtml)  
 
 ---
 
@@ -62,3 +75,4 @@ By learning to recognize design smells and apply proven patterns, I am able to c
 
 This repository documents my progress in learning **object-oriented design and patterns** through coursework, labs, and implementations.  
 It serves as a reference point for applying these principles in future projects and professional work.
+
