@@ -1,0 +1,51 @@
+# Computer Systems Security
+
+## Academic Year: 2024/2025
+
+## Course Description
+The goal of this course is to introduce students to the field of cybersecurity, providing an overview of security challenges and the approaches used to address or mitigate them. Additionally, students will develop a security-oriented mindset that will enable them to design and implement more secure systems in their professional careers.
+
+## Study Programs
+**Undergraduate University Program**  
+- [FER3-HR] Computer Science - Study Program (6th semester)
+
+## Learning Outcomes
+- Explain fundamental concepts and principles of cybersecurity
+- Describe types of security threats and attacks, as well as common defense mechanisms
+- Understand properties of commonly used cryptographic primitives
+- Explain the role of public key infrastructure (PKI) and the TLS protocol
+- Apply fundamental principles of secure coding and defensive programming
+- Describe key concepts in digital forensics
+- Implement a basic attack on a vulnerable system
+
+## Teaching Methods
+- **Lectures**  
+- **Laboratory Exercises**  
+
+## Assessment and Grading
+
+| Continuous Assessment | Exam Period |
+|----------------------|------------|
+| **Assessment Type** | **Threshold** | **Weight** | **Threshold** | **Weight** |
+| Laboratory Exercises | - | 20% | - | 20% |
+| Midterm Exam (Written) | - | 40% | - | 0% |
+| Final Exam (Written) | - | 40% | - | - |
+| Exam (Written) | - | - | 50% | 70% |
+| Exam (Oral) | - | - | - | 10% |
+
+## Weekly Course Plan
+1. Introduction to cybersecurity concepts and fundamental principles
+2. Introduction to cryptography: classical cryptography, symmetric ciphers, and AES
+3. Encryption modes, stream ciphers, cryptanalysis of block ciphers, hash functions, and message integrity codes. Asymmetric cryptography
+4. Vulnerabilities, threats, and sources of threats
+5. Threats and sources of threats: malware
+6. Access control and software security
+7. Operating system security and web application security
+8. **Midterm Exam**
+9. Web application security and network security
+10. Network security
+11. Network security
+12. Overview of other security domains
+13. Future directions in cybersecurity
+14. **AMA (Ask Me Anything) Session**
+15. **Final Exam**
